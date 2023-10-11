@@ -1,0 +1,90 @@
+Congratulations! You passed!
+Grade received 87.50%
+Latest Submission Grade 87.50%
+To pass 80% or higher
+1.
+Question 1
+Whenever starting a new project in Android Studio, it automatically
+generates many files and folders. Which folder will contain the source code for a project?
+
+1 / 1 point
+
+App folder
+
+
+.gradle folder
+
+
+.idea folder
+
+Correct
+That's right! The app folder will contain source code related to the project. This where a developer will write their code, create the UI and and store assets such as images and fonts.
+
+2.
+Question 2
+Which of the following statements is true about the onCreate() function?
+
+Select all that apply.
+
+1 / 1 point
+
+The onCreate() is not required in your activity class in order to run an Android app.
+
+
+The role of the onCreate() function is to create the view and initialize the actions of the activity.
+
+Correct
+That's correct! The role of the onCreate() function is to create the view and initialize the actions of the activity.
+
+
+The onCreate() function is called when your app is run.
+
+Correct
+That’s correct! The onCreate() function is called when your app is run and is considered the entry point for your app to run successfully. 
+
+3.
+Question 3
+True or False: Android Studio generates three build.gradle files when a new project is created.
+
+1 / 1 point
+
+True
+
+
+False
+
+Correct
+That’s correct! Android Studio generates two build.gradle files when a new project is created: one that defines the build settings that apply to every module in the project and another that defines the build settings of the app module its located in.
+
+4.
+Question 4
+When creating a new project, Android Studio generates an Android.Manifest.xml file by default. Which tag in the manifest file is used to to specify the theme of the application in terms of the user
+interface (UI) experience?
+
+1 / 1 point
+
+<intent-filter>
+
+
+<activity>
+
+
+<permission>
+
+
+<application>
+
+Correct
+That's correct! The application tag is used to specify the theme of the application in terms of UI experience. Things like icon and label are defined in your application tag.
+
+5.
+Question 5
+Of the three main CPU architectures used in most smartphones, which is the most common?
+
+0 / 1 point
+
+ARM64
+
+
+ARM
+
