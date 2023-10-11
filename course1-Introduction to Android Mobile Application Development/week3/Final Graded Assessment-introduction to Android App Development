@@ -1,0 +1,165 @@
+Congratulations! You passed!
+Grade received 90%
+Latest Submission Grade 90%
+To pass 80% or higher
+1.
+Question 1
+Which of the following is true of a ViewGroup in Android Studio?
+
+0 / 1 point
+
+A ViewGroup represents a rectangular area of the screen and is used for
+displaying information.
+
+
+A ViewGroup defines layout in which views will be arranged on the Android screen.
+
+
+A ViewGroup is a special view that can contain one or more other views.
+
+Correct
+Correct. ViewGroup is a special use of the view class because it can contain one or more other views.
+
+You didn’t select all the correct answers
+2.
+Question 2
+Which of the following is a valid way of setting a value to a variable in Kotlin? 
+
+1 / 1 point
+
+var firstName: String = Michael    
+
+
+var firstName: String = "Michael"    
+
+Correct
+Correct! This is a valid way of setting a value to a variable.    
+
+3.
+Question 3
+TextView, ImageView and ImageButton are all examples of what in Android Studio?
+
+1 / 1 point
+
+Functions
+
+
+Project templates
+
+
+Views
+
+Correct
+Correct! TextView, ImageView and ImageButton are all building blocks of the user interface called Views, which are a sub-class of the parent View in Android Studio.
+
+4.
+Question 4
+Imagine you have a large set of data you'd like to display in the form of a vertical list. Which Android layout should you use?
+
+1 / 1 point
+
+LinearLayout
+
+
+RecyclerView
+
+
+ConstraintLayout
+
+Correct
+Correct. Recycler View can be used to display sets of data in dynamic lists that can be scrolled. To position the items in the Recycler View in a vertical list, the developer can use the Linear Layout Manager.
+
+5.
+Question 5
+Which template in Android Studio would you recommend for creating a simple app quickly?
+
+1 / 1 point
+
+Empty Activity
+
+
+Basic Activity
+
+
+Bottom Navigation Activity
+
+Correct
+That’s correct! The Basic Activity template in Android Studio allows you to create a base code for your app, including commonly used user interface (UI) components.
+
+6.
+Question 6
+True or false: Developers can use Java commands, libraries and frameworks in Kotlin projects without any issue.    
+
+1 / 1 point
+
+True
+
+
+False
+
+Correct
+That's correct. An advantage of Kotlin is that it is interoperable with Java. As a result, developers can use Java commands, libraries and frameworks in Kotlin projects without any issue.   
+
+7.
+Question 7
+Which built-in package in Android Studio is used to locate resources, such as a file you want a video player app to play?
+
+1 / 1 point
+
+MediaController
+
+
+URI
+
+
+VideoView
+
+Correct
+That's correct. URI (Uniform Resource Identifier) is a built-in package that allows you to reference the location of a particular resource, whether it is in your application folder or on the user's device. 
+
+8.
+Question 8
+What language are Android layouts written in?
+
+1 / 1 point
+
+Java
+
+
+XML
+
+
+Kotlin
+
+Correct
+That’s correct! Android layouts are written in XML.   
+
+      
+
+9.
+Question 9
+True or false: Activity components are effectively the foundation of an app and manage some interactions with the system.    
+
+1 / 1 point
+
+True
+
+
+False
+
+Correct
+Correct! Activities provide the most 'obvious' parts of application components. They present content users can interact with on the screen.
+
+10.
+Question 10
+True or false: The Android Configuration files define the behavior of the user interface.    
+
+1 / 1 point
+
+True
+
+
+False
+
+Correct
+Correct! Android Configuration files define the project structure.    
