@@ -1,0 +1,156 @@
+Congratulations! You passed!
+Grade received 87.50%
+Latest Submission Grade 87.50%
+To pass 80% or higher
+1.
+Question 1
+Which of the following is installable software that runs on a smartphone device?
+
+1 / 1 point
+
+Mobile app
+
+
+Mobile website 
+
+
+Android SDK
+
+Correct
+That's correct. A mobile app is installable software that runs on a smartphone device.
+
+2.
+Question 2
+Which of the following statements about Android Studio is true? 
+
+Select all that apply.
+
+1 / 1 point
+
+Android Studio only supports Kotlin and Java.
+
+
+In Android Studio, you can test apps that you build with an emulator.
+
+Correct
+That's correct. A key feature of Android Studio is a fast emulator that simulates Android devices on your computer for testing your apps on different devices
+
+
+You can only build apps for mobile phones with Android Studio.
+
+
+Android Studio includes a complete build system.
+
+Correct
+That's correct. A key feature of Android Studio is complete build system which will allow you to compile and build your Android app.
+
+3.
+Question 3
+The Android Studio main window is divided into different sections. Where will a developer make changes to code?
+
+1 / 1 point
+
+Editor window
+
+
+Tool window
+
+
+Status bar
+
+Correct
+That's correct. The editor window is where you create and make changes to code. 
+
+4.
+Question 4
+Which major component of an Android app is responsible for responding to messages from other applications or systems in real-time?
+
+1 / 1 point
+
+Broadcast receivers
+
+
+Activity
+
+
+Content providers
+
+
+Services
+
+Correct
+That’s correct! The purpose of the broadcast receivers component is to respond to messages from other applications or systems in real-time.
+
+5.
+Question 5
+Android Studio provides starter code in the form of project templates to help developers with efficient app design. Which template creates a base project to which you can add more code?
+
+0 / 1 point
+
+Bottom Navigation Activity
+
+
+Empty Activity
+
+
+Login Activity
+
+
+Basic Activity
+
+Incorrect
+Not quite. Please review the Project templates video in Lesson 3.
+
+6.
+Question 6
+An Android app is made up of ___________ major components that serve as the building blocks of any Android app in the market.
+
+1 / 1 point
+
+Five
+
+
+Six
+
+
+Seven
+
+
+Four
+
+Correct
+That’s correct! An Android app is made up of Activities, Services, Broadcast Receivers and Content providers components, which serve as the building blocks of any Android app in the market.
+
+7.
+Question 7
+True or False: The Kotlin compiler allows you to convert code in any language to Kotlin code.
+
+1 / 1 point
+
+True
+
+
+False
+
+Correct
+That’s correct! You can convert Java code to Kotlin with a single click. This is an advantage of Kotlin, which is interoperable with Java.
+
+8.
+Question 8
+You create a music app for Android smartphones. Which major component of your Android app is responsible for alerting an app user that their battery is low while they are listening to music on the app?
+
+1 / 1 point
+
+Content providers
+
+
+Services
+
+
+Broadcast receivers
+
+
+Activities
+
+Correct
+That’s right! The purpose of the broadcast receivers component is to respond to messages from other applications or systems in real-time, such as alerting a user to their low battery while they are listening to music in an app.
